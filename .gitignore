@@ -29,3 +29,5 @@ src/main/scala/META-INF/MANIFEST.MF
 .metals
 .vscode
 .bsp
+.sbt
+.bash_history
